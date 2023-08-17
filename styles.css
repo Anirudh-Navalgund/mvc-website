@@ -154,7 +154,7 @@
     }
   }
 
-  @media (min-width: 601px) and (max-width: 1000px) {
+  @media (min-width: 701px) and (max-width: 1000px) {
     .topic-cards {
       grid-template-columns: 1fr 1fr;
     }
