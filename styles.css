@@ -132,7 +132,7 @@
     padding-bottom: 10px;
   }
 
-  @media (max-width: 1360px) {
+  @media (max-width: 1300px) {
     .topic-cards {
       grid-template-columns: 1fr;
     }
@@ -140,11 +140,11 @@
       grid-template-columns: 1fr;
     }
     .header {
-      font-size: 34px;
+      font-size: 45px;
     }
     .main-view {
       flex-wrap: wrap;
-      font-size: 30px;
+      font-size: 40px;
       padding: 10px;
       text-align: center;
       justify-content: center;
@@ -159,7 +159,7 @@
       grid-template-columns: 1fr 1fr;
     }
     .main-view {
-      font-size: 40px;
+      font-size: 45px;
       padding: 0px 20px;
       justify-content: center;
       align-items: center;
